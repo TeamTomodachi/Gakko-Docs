@@ -7,9 +7,10 @@ A mobile web application passion project to allow PoGo community members to show
 - [Technical Recommendations](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Project%20Documentation/Pogo%20Gakko%20Technical%20Recommendations.pdf)
 - [Architecture Diagram](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Development/Backend/Architecture/Backend%20Architecture.pdf)
 - Gantt Chart
+- Handoff Guide
 - Mockups and Wireframes
 - Style Guide
-- Site Pages
+- Storybook
 - Meeting Minutes
   - [Meeting 1](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Meeting%20Minutes/POGO%20Gakko%20-%20Meeting%20Minutes%201.pdf)
   - [Meeting 2](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Meeting%20Minutes/POGO%20Gakko%20-%20Meeting%20Minutes%202.pdf)
