@@ -11,7 +11,7 @@ A mobile web application passion project to allow PoGo community members to show
 - Handoff Guide
 - [Style Guide](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Project%20Documentation/PogoGakkoStyleGuide.pdf)
 - Mockups and CSS Frames
-  - [User Profile 1.0](https://raw.githubusercontent.com/TeamTomodachi/GakkoDocs/master/Development/Frontend/Mockups%20and%20CSS%20Frames/prof_1.0.PNG)
+  - [User Profile 1.1](https://raw.githubusercontent.com/TeamTomodachi/GakkoDocs/master/Development/Frontend/Mockups%20and%20CSS%20Frames/prof_1.1.PNG)
   - [User Profile 1.0 CSS Frames](https://raw.githubusercontent.com/TeamTomodachi/GakkoDocs/master/Development/Frontend/Mockups%20and%20CSS%20Frames/prof_1.0_css.png)
   - [Raids 1.0](https://raw.githubusercontent.com/TeamTomodachi/GakkoDocs/master/Development/Frontend/Mockups%20and%20CSS%20Frames/raids_1.0.PNG)
   - [Raids 1.0 CSS Frames](https://raw.githubusercontent.com/TeamTomodachi/GakkoDocs/master/Development/Frontend/Mockups%20and%20CSS%20Frames/raids_1.0_css.png)
