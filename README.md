@@ -28,3 +28,5 @@ A mobile web application passion project to allow PoGo community members to show
   - [Week 6](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Weekly%20Status%20Reports/Team%20Tomodachi%20Status%20Report%20-%20week%206.pdf)
   - [Week 7](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Weekly%20Status%20Reports/Team%20Tomodachi%20Status%20Report%20-%20week%207.pdf)
   - [Week 8](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Weekly%20Status%20Reports/Team%20Tomodachi%20Status%20Report%20-%20week%208.pdf)
+  - [Week 9](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Weekly%20Status%20Reports/Team%20Tomodachi%20Status%20Report%20-%20week%209.pdf)
+
