@@ -17,6 +17,7 @@ A mobile web application passion project to allow PoGo community members to show
   - [Raids 1.0](https://raw.githubusercontent.com/TeamTomodachi/GakkoDocs/master/Development/Frontend/Mockups%20and%20CSS%20Frames/raids_1.0.PNG)
   - [Raids 1.0 CSS Frames](https://raw.githubusercontent.com/TeamTomodachi/GakkoDocs/master/Development/Frontend/Mockups%20and%20CSS%20Frames/raids_1.0_css.png)
   - [Raids 2.0](https://raw.githubusercontent.com/TeamTomodachi/GakkoDocs/master/Development/Frontend/Mockups%20and%20CSS%20Frames/raids_2.0.PNG)
+  - [Raids Room 1.0](https://raw.githubusercontent.com/TeamTomodachi/GakkoDocs/master/Development/Frontend/Mockups%20and%20CSS%20Frames/raidsroom_1.0.PNG)
 - Meeting Minutes
   - [Meeting 1](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Meeting%20Minutes/POGO%20Gakko%20-%20Meeting%20Minutes%201.pdf)
   - [Meeting 2](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Meeting%20Minutes/POGO%20Gakko%20-%20Meeting%20Minutes%202.pdf)
