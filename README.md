@@ -24,6 +24,7 @@ A mobile web application passion project to allow PoGo community members to show
 - Meeting Minutes
   - [Meeting 1](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Meeting%20Minutes/POGO%20Gakko%20-%20Meeting%20Minutes%201.pdf)
   - [Meeting 2](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Meeting%20Minutes/POGO%20Gakko%20-%20Meeting%20Minutes%202.pdf)
+  - [Meeting 3](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Meeting%20Minutes/POGO%20Gakko%20-%20Meeting%20Minutes%203.pdf)
 - Weekly Status Reports
   - [Week 1](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Weekly%20Status%20Reports/Team%20Tomodachi%20Status%20Report%20-%20week%201.pdf)
   - [Week 2](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Weekly%20Status%20Reports/Team%20Tomodachi%20Status%20Report%20-%20week%202.pdf)
