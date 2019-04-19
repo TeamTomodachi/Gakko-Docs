@@ -11,6 +11,9 @@ A mobile web application passion project to allow PoGo community members to show
 - [Gantt Chart/Risk Register](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Project%20Documentation/PoGo%20Gakko%20Gantt%20Chart%20and%20Risk%20Register.pdf)
 - Handoff Guide
 - [Style Guide](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Project%20Documentation/PogoGakkoStyleGuide.pdf)
+- Logo
+  - [Text Only](https://raw.githubusercontent.com/TeamTomodachi/GakkoDocs/master/Project%20Documentation/Graphics/logo_letters.png)
+  - [Image Included](https://raw.githubusercontent.com/TeamTomodachi/GakkoDocs/master/Project%20Documentation/Graphics/logo_image.png)
 - Mockups and CSS Frames
   - [User Profile 1.1](https://raw.githubusercontent.com/TeamTomodachi/GakkoDocs/master/Development/Frontend/Mockups%20and%20CSS%20Frames/prof_1.1.PNG)
   - [User Profile 1.0 CSS Frames](https://raw.githubusercontent.com/TeamTomodachi/GakkoDocs/master/Development/Frontend/Mockups%20and%20CSS%20Frames/prof_1.0_css.png)
