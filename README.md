@@ -2,6 +2,10 @@
 
 A mobile web application passion project to allow PoGo community members to show and share their accomplishments, and to more easily organize themselves for raids, trades, and battles.
 
+## Repositories
+- [GakkoFront](https://github.com/TeamTomodachi/GakkoFront)
+- [GakkoServices](https://github.com/TeamTomodachi/GakkoServices)
+
 ## Contents
 - [Creative Brief](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Project%20Documentation/Pogo%20Gakko%20Creative%20Brief.pdf)
 - [Technical Recommendations](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Project%20Documentation/Pogo%20Gakko%20Technical%20Recommendations.pdf)
