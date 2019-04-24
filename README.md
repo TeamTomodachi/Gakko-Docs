@@ -7,7 +7,7 @@ A mobile web application passion project to allow PoGo community members to show
 - [GakkoServices](https://github.com/TeamTomodachi/GakkoServices)
 
 ## Contents
-- [Steve's Project Idea Document)(https://github.com/TeamTomodachi/GakkoDocs/blob/master/POGO%20Gakko%20-%20Project%20Idea%20Document.pdf)
+- [Steve's Project Idea Document](https://github.com/TeamTomodachi/GakkoDocs/blob/master/POGO%20Gakko%20-%20Project%20Idea%20Document.pdf)
 - [Creative Brief](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Project%20Documentation/Pogo%20Gakko%20Creative%20Brief.pdf)
 - [Technical Recommendations](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Project%20Documentation/Pogo%20Gakko%20Technical%20Recommendations.pdf)
 - [Architecture Diagram](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Development/Backend/Architecture/Backend%20Architecture.pdf)
