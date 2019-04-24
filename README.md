@@ -2,6 +2,10 @@
 
 A mobile web application passion project to allow PoGo community members to show and share their accomplishments, and to more easily organize themselves for raids, trades, and battles.
 
+## Repositories
+- [GakkoFront](https://github.com/TeamTomodachi/GakkoFront)
+- [GakkoServices](https://github.com/TeamTomodachi/GakkoServices)
+
 ## Contents
 - [Steve's Project Idea Document)(https://github.com/TeamTomodachi/GakkoDocs/blob/master/POGO%20Gakko%20-%20Project%20Idea%20Document.pdf)
 - [Creative Brief](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Project%20Documentation/Pogo%20Gakko%20Creative%20Brief.pdf)
@@ -9,9 +13,13 @@ A mobile web application passion project to allow PoGo community members to show
 - [Architecture Diagram](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Development/Backend/Architecture/Backend%20Architecture.pdf)
 - [Storyboard](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Project%20Documentation/User%20Experience%20Path%20Storyboard.pdf)
 - [Storyboard Graphic](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Project%20Documentation/User%20Experience%20Path%20Storyboard%20Graphic.png)
-- Gantt Chart
+- [Gantt Chart/Risk Register](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Project%20Documentation/PoGo%20Gakko%20Gantt%20Chart%20and%20Risk%20Register.pdf)
 - Handoff Guide
 - [Style Guide](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Project%20Documentation/PogoGakkoStyleGuide.pdf)
+- [Final Presentation: PogoGakko Presentation](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Presentations/PoGo%20Gakko%20Presentation.pdf)
+- Logo
+  - [Text Only](https://raw.githubusercontent.com/TeamTomodachi/GakkoDocs/master/Project%20Documentation/Graphics/logo_letters.png)
+  - [Image Included](https://raw.githubusercontent.com/TeamTomodachi/GakkoDocs/master/Project%20Documentation/Graphics/logo_image.png)
 - Mockups and CSS Frames
   - [User Profile 1.1](https://raw.githubusercontent.com/TeamTomodachi/GakkoDocs/master/Development/Frontend/Mockups%20and%20CSS%20Frames/prof_1.1.PNG)
   - [User Profile 1.0 CSS Frames](https://raw.githubusercontent.com/TeamTomodachi/GakkoDocs/master/Development/Frontend/Mockups%20and%20CSS%20Frames/prof_1.0_css.png)
@@ -37,4 +45,5 @@ A mobile web application passion project to allow PoGo community members to show
   - [Week 7](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Weekly%20Status%20Reports/Team%20Tomodachi%20Status%20Report%20-%20week%207.pdf)
   - [Week 8](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Weekly%20Status%20Reports/Team%20Tomodachi%20Status%20Report%20-%20week%208.pdf)
   - [Week 9](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Weekly%20Status%20Reports/Team%20Tomodachi%20Status%20Report%20-%20week%209.pdf)
+  - [Week 10 (Final)](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Weekly%20Status%20Reports/Team%20Tomodachi%20Status%20Report%20-%20week%2010%20(final).pdf)
 
