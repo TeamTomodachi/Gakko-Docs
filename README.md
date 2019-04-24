@@ -3,6 +3,7 @@
 A mobile web application passion project to allow PoGo community members to show and share their accomplishments, and to more easily organize themselves for raids, trades, and battles.
 
 ## Contents
+- [Steve's Project Idea Document)(https://github.com/TeamTomodachi/GakkoDocs/blob/master/POGO%20Gakko%20-%20Project%20Idea%20Document.pdf)
 - [Creative Brief](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Project%20Documentation/Pogo%20Gakko%20Creative%20Brief.pdf)
 - [Technical Recommendations](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Project%20Documentation/Pogo%20Gakko%20Technical%20Recommendations.pdf)
 - [Architecture Diagram](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Development/Backend/Architecture/Backend%20Architecture.pdf)
@@ -22,6 +23,7 @@ A mobile web application passion project to allow PoGo community members to show
   - [Raids Room Chat 1.0](https://raw.githubusercontent.com/TeamTomodachi/GakkoDocs/master/Development/Frontend/Mockups%20and%20CSS%20Frames/raidsroom_chat_1.0.PNG)
   - [Raids Room Teams 1.0](https://raw.githubusercontent.com/TeamTomodachi/GakkoDocs/master/Development/Frontend/Mockups%20and%20CSS%20Frames/raidsroom_teams_1.0.PNG)
 - Meeting Minutes
+  - [First Meeting Notes](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Meeting%20Minutes/Pogo_Gakko_First_Meeting_Notes.pdf)
   - [Meeting 1](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Meeting%20Minutes/POGO%20Gakko%20-%20Meeting%20Minutes%201.pdf)
   - [Meeting 2](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Meeting%20Minutes/POGO%20Gakko%20-%20Meeting%20Minutes%202.pdf)
   - [Meeting 3](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Meeting%20Minutes/POGO%20Gakko%20-%20Meeting%20Minutes%203.pdf)
