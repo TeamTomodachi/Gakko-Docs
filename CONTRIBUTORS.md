@@ -9,5 +9,5 @@ Included on this list is all of the Developers who have had the pleasure of work
 - [Patrick Cowan](https://github.com/Patrick-N-C) | [LinkedIn](https://www.linkedin.com/in/cowanpatrick/)
 - [Windjy Jean](https://github.com/Yuugami) | [LinkedIn](https://www.linkedin.com/in/windjyjean/)
 
-## Design
+## Designers
 - [sshliu](https://github.com/sshliu)
