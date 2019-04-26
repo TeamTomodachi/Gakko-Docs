@@ -18,7 +18,7 @@ A mobile web application passion project to allow PoGo community members to show
 - [Storyboard](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Project%20Documentation/User%20Experience%20Path%20Storyboard.pdf)
 - [Storyboard Graphic](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Project%20Documentation/User%20Experience%20Path%20Storyboard%20Graphic.png)
 - [Gantt Chart/Risk Register](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Project%20Documentation/PoGo%20Gakko%20Gantt%20Chart%20and%20Risk%20Register.pdf)
-- Handoff Guide
+- [Handoff Guide](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Project%20Documentation/Handoff%20Guide.pdf)
 - [Style Guide](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Project%20Documentation/PogoGakkoStyleGuide.pdf)
 - [Final Presentation: PogoGakko Presentation](https://github.com/TeamTomodachi/GakkoDocs/blob/master/Presentations/PoGo%20Gakko%20Presentation.pdf)
 - Logo
