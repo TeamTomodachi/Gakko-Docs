@@ -2,7 +2,7 @@
 
 Included on this list is all of the Teams, Developers and individuals who have had the pleasure of working on the PogoGakko Project
 
-## Team Tomodachi
+## Team Tomodachi (2019)
 ### Developers
 - [sshliu](https://github.com/sshliu)
 - [Patrick Gingras](https://github.com/p7g) | [LinkedIn](https://www.linkedin.com/in/pat775/)
@@ -13,8 +13,6 @@ Included on this list is all of the Teams, Developers and individuals who have h
 ## Designers
 - [sshliu](https://github.com/sshliu)
 
-### Project Manager
+### Project Manager & Secretary
 - [Windjy Jean](https://github.com/Yuugami) | [LinkedIn](https://www.linkedin.com/in/windjyjean/)
-
-### Secretary
 - [sshliu](https://github.com/sshliu)
