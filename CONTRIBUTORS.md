@@ -1,8 +1,9 @@
 # Contributors
 
-Included on this list is all of the Developers who have had the pleasure of working on the PogoGakko Project
+Included on this list is all of the Teams, Developers and individuals who have had the pleasure of working on the PogoGakko Project
 
-## Developers
+## Team Tomodachi
+### Developers
 - [sshliu](https://github.com/sshliu)
 - [Patrick Gingras](https://github.com/p7g) | [LinkedIn](https://www.linkedin.com/in/pat775/)
 - [Andrew Godfroy](https://github.com/killerrin) | [LinkedIn](https://linkedin.com/in/andrewgodfroy/)
@@ -10,4 +11,10 @@ Included on this list is all of the Developers who have had the pleasure of work
 - [Windjy Jean](https://github.com/Yuugami) | [LinkedIn](https://www.linkedin.com/in/windjyjean/)
 
 ## Designers
+- [sshliu](https://github.com/sshliu)
+
+### Project Manager
+- [Windjy Jean](https://github.com/Yuugami) | [LinkedIn](https://www.linkedin.com/in/windjyjean/)
+
+### Secretary
 - [sshliu](https://github.com/sshliu)
