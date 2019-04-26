@@ -1,5 +1,7 @@
 # Contributors
 
+Included on this list is all of the Developers who have had the pleasure of working on the PogoGakko Project
+
 ## Developers
 - [sshliu](https://github.com/sshliu)
 - [Patrick Gingras](https://github.com/p7g) | [LinkedIn](https://www.linkedin.com/in/pat775/)
